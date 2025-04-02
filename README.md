@@ -1,2 +1,1 @@
-# Full_Stack
-Full Stack Development
+# coding-project-template
